@@ -1,0 +1,11 @@
+C:\Users\Felipe\source\repos\URI\uri1002\bin\Debug\netcoreapp3.1\uri1002.exe
+C:\Users\Felipe\source\repos\URI\uri1002\bin\Debug\netcoreapp3.1\uri1002.deps.json
+C:\Users\Felipe\source\repos\URI\uri1002\bin\Debug\netcoreapp3.1\uri1002.runtimeconfig.json
+C:\Users\Felipe\source\repos\URI\uri1002\bin\Debug\netcoreapp3.1\uri1002.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\URI\uri1002\bin\Debug\netcoreapp3.1\uri1002.dll
+C:\Users\Felipe\source\repos\URI\uri1002\bin\Debug\netcoreapp3.1\uri1002.pdb
+C:\Users\Felipe\source\repos\URI\uri1002\obj\Debug\netcoreapp3.1\uri1002.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\URI\uri1002\obj\Debug\netcoreapp3.1\uri1002.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\URI\uri1002\obj\Debug\netcoreapp3.1\uri1002.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\URI\uri1002\obj\Debug\netcoreapp3.1\uri1002.dll
+C:\Users\Felipe\source\repos\URI\uri1002\obj\Debug\netcoreapp3.1\uri1002.pdb

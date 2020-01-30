@@ -1,0 +1,10 @@
+C:\Users\Felipe\source\repos\URI\uri1043\bin\Debug\netcoreapp3.1\uri1043.exe
+C:\Users\Felipe\source\repos\URI\uri1043\bin\Debug\netcoreapp3.1\uri1043.deps.json
+C:\Users\Felipe\source\repos\URI\uri1043\bin\Debug\netcoreapp3.1\uri1043.runtimeconfig.json
+C:\Users\Felipe\source\repos\URI\uri1043\bin\Debug\netcoreapp3.1\uri1043.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\URI\uri1043\bin\Debug\netcoreapp3.1\uri1043.dll
+C:\Users\Felipe\source\repos\URI\uri1043\bin\Debug\netcoreapp3.1\uri1043.pdb
+C:\Users\Felipe\source\repos\URI\uri1043\obj\Debug\netcoreapp3.1\uri1043.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\URI\uri1043\obj\Debug\netcoreapp3.1\uri1043.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\URI\uri1043\obj\Debug\netcoreapp3.1\uri1043.dll
+C:\Users\Felipe\source\repos\URI\uri1043\obj\Debug\netcoreapp3.1\uri1043.pdb

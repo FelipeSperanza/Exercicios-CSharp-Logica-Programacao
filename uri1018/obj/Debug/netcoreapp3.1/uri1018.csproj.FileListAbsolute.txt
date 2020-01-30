@@ -1,0 +1,11 @@
+C:\Users\Felipe\source\repos\URI\uri1018\bin\Debug\netcoreapp3.1\uri1018.exe
+C:\Users\Felipe\source\repos\URI\uri1018\bin\Debug\netcoreapp3.1\uri1018.deps.json
+C:\Users\Felipe\source\repos\URI\uri1018\bin\Debug\netcoreapp3.1\uri1018.runtimeconfig.json
+C:\Users\Felipe\source\repos\URI\uri1018\bin\Debug\netcoreapp3.1\uri1018.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\URI\uri1018\bin\Debug\netcoreapp3.1\uri1018.dll
+C:\Users\Felipe\source\repos\URI\uri1018\bin\Debug\netcoreapp3.1\uri1018.pdb
+C:\Users\Felipe\source\repos\URI\uri1018\obj\Debug\netcoreapp3.1\uri1018.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\URI\uri1018\obj\Debug\netcoreapp3.1\uri1018.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\URI\uri1018\obj\Debug\netcoreapp3.1\uri1018.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\URI\uri1018\obj\Debug\netcoreapp3.1\uri1018.dll
+C:\Users\Felipe\source\repos\URI\uri1018\obj\Debug\netcoreapp3.1\uri1018.pdb

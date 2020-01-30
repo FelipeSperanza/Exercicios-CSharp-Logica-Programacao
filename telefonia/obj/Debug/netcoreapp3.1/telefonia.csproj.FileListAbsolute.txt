@@ -1,0 +1,10 @@
+C:\Users\Felipe\source\repos\URI\telefonia\bin\Debug\netcoreapp3.1\telefonia.exe
+C:\Users\Felipe\source\repos\URI\telefonia\bin\Debug\netcoreapp3.1\telefonia.deps.json
+C:\Users\Felipe\source\repos\URI\telefonia\bin\Debug\netcoreapp3.1\telefonia.runtimeconfig.json
+C:\Users\Felipe\source\repos\URI\telefonia\bin\Debug\netcoreapp3.1\telefonia.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\URI\telefonia\bin\Debug\netcoreapp3.1\telefonia.dll
+C:\Users\Felipe\source\repos\URI\telefonia\bin\Debug\netcoreapp3.1\telefonia.pdb
+C:\Users\Felipe\source\repos\URI\telefonia\obj\Debug\netcoreapp3.1\telefonia.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\URI\telefonia\obj\Debug\netcoreapp3.1\telefonia.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\URI\telefonia\obj\Debug\netcoreapp3.1\telefonia.dll
+C:\Users\Felipe\source\repos\URI\telefonia\obj\Debug\netcoreapp3.1\telefonia.pdb

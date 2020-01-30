@@ -1,0 +1,10 @@
+C:\Users\Felipe\source\repos\URI\uri1114\bin\Debug\netcoreapp3.1\uri1114.exe
+C:\Users\Felipe\source\repos\URI\uri1114\bin\Debug\netcoreapp3.1\uri1114.deps.json
+C:\Users\Felipe\source\repos\URI\uri1114\bin\Debug\netcoreapp3.1\uri1114.runtimeconfig.json
+C:\Users\Felipe\source\repos\URI\uri1114\bin\Debug\netcoreapp3.1\uri1114.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\URI\uri1114\bin\Debug\netcoreapp3.1\uri1114.dll
+C:\Users\Felipe\source\repos\URI\uri1114\bin\Debug\netcoreapp3.1\uri1114.pdb
+C:\Users\Felipe\source\repos\URI\uri1114\obj\Debug\netcoreapp3.1\uri1114.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\URI\uri1114\obj\Debug\netcoreapp3.1\uri1114.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\URI\uri1114\obj\Debug\netcoreapp3.1\uri1114.dll
+C:\Users\Felipe\source\repos\URI\uri1114\obj\Debug\netcoreapp3.1\uri1114.pdb

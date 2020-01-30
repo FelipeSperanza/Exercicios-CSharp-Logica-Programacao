@@ -1,0 +1,10 @@
+C:\Users\Felipe\source\repos\URI\mediaIdade\bin\Debug\netcoreapp3.1\mediaIdade.exe
+C:\Users\Felipe\source\repos\URI\mediaIdade\bin\Debug\netcoreapp3.1\mediaIdade.deps.json
+C:\Users\Felipe\source\repos\URI\mediaIdade\bin\Debug\netcoreapp3.1\mediaIdade.runtimeconfig.json
+C:\Users\Felipe\source\repos\URI\mediaIdade\bin\Debug\netcoreapp3.1\mediaIdade.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\URI\mediaIdade\bin\Debug\netcoreapp3.1\mediaIdade.dll
+C:\Users\Felipe\source\repos\URI\mediaIdade\bin\Debug\netcoreapp3.1\mediaIdade.pdb
+C:\Users\Felipe\source\repos\URI\mediaIdade\obj\Debug\netcoreapp3.1\mediaIdade.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\URI\mediaIdade\obj\Debug\netcoreapp3.1\mediaIdade.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\URI\mediaIdade\obj\Debug\netcoreapp3.1\mediaIdade.dll
+C:\Users\Felipe\source\repos\URI\mediaIdade\obj\Debug\netcoreapp3.1\mediaIdade.pdb

@@ -1,0 +1,11 @@
+C:\Users\Felipe\source\repos\URI\uri1144\bin\Debug\netcoreapp3.1\uri1144.exe
+C:\Users\Felipe\source\repos\URI\uri1144\bin\Debug\netcoreapp3.1\uri1144.deps.json
+C:\Users\Felipe\source\repos\URI\uri1144\bin\Debug\netcoreapp3.1\uri1144.runtimeconfig.json
+C:\Users\Felipe\source\repos\URI\uri1144\bin\Debug\netcoreapp3.1\uri1144.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\URI\uri1144\bin\Debug\netcoreapp3.1\uri1144.dll
+C:\Users\Felipe\source\repos\URI\uri1144\bin\Debug\netcoreapp3.1\uri1144.pdb
+C:\Users\Felipe\source\repos\URI\uri1144\obj\Debug\netcoreapp3.1\uri1144.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\URI\uri1144\obj\Debug\netcoreapp3.1\uri1144.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\URI\uri1144\obj\Debug\netcoreapp3.1\uri1144.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\URI\uri1144\obj\Debug\netcoreapp3.1\uri1144.dll
+C:\Users\Felipe\source\repos\URI\uri1144\obj\Debug\netcoreapp3.1\uri1144.pdb

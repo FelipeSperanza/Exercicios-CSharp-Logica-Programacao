@@ -1,0 +1,10 @@
+C:\Users\Felipe\source\repos\URI\menorNumero\bin\Debug\netcoreapp3.1\menorNumero.exe
+C:\Users\Felipe\source\repos\URI\menorNumero\bin\Debug\netcoreapp3.1\menorNumero.deps.json
+C:\Users\Felipe\source\repos\URI\menorNumero\bin\Debug\netcoreapp3.1\menorNumero.runtimeconfig.json
+C:\Users\Felipe\source\repos\URI\menorNumero\bin\Debug\netcoreapp3.1\menorNumero.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\URI\menorNumero\bin\Debug\netcoreapp3.1\menorNumero.dll
+C:\Users\Felipe\source\repos\URI\menorNumero\bin\Debug\netcoreapp3.1\menorNumero.pdb
+C:\Users\Felipe\source\repos\URI\menorNumero\obj\Debug\netcoreapp3.1\menorNumero.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\URI\menorNumero\obj\Debug\netcoreapp3.1\menorNumero.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\URI\menorNumero\obj\Debug\netcoreapp3.1\menorNumero.dll
+C:\Users\Felipe\source\repos\URI\menorNumero\obj\Debug\netcoreapp3.1\menorNumero.pdb
