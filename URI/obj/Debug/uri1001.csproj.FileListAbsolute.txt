@@ -4,3 +4,9 @@ C:\Users\Felipe\source\repos\URI\URI\bin\Debug\URI.pdb
 C:\Users\Felipe\source\repos\URI\URI\obj\Debug\uri1001.csprojAssemblyReference.cache
 C:\Users\Felipe\source\repos\URI\URI\obj\Debug\URI.exe
 C:\Users\Felipe\source\repos\URI\URI\obj\Debug\URI.pdb
+C:\Users\Suporte\Desktop\ExerciciosCSharp\URI\bin\Debug\URI.exe.config
+C:\Users\Suporte\Desktop\ExerciciosCSharp\URI\bin\Debug\URI.exe
+C:\Users\Suporte\Desktop\ExerciciosCSharp\URI\bin\Debug\URI.pdb
+C:\Users\Suporte\Desktop\ExerciciosCSharp\URI\obj\Debug\uri1001.csprojAssemblyReference.cache
+C:\Users\Suporte\Desktop\ExerciciosCSharp\URI\obj\Debug\URI.exe
+C:\Users\Suporte\Desktop\ExerciciosCSharp\URI\obj\Debug\URI.pdb

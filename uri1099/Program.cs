@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace uri1099
 {
@@ -6,7 +10,7 @@ namespace uri1099
     {
         static void Main(string[] args)
         {
-            int i, n, maior, menor, soma=0;
+            int i, n, j, maior = 0, menor = 0, soma = 0;
 
             n = int.Parse(Console.ReadLine());
 
@@ -17,7 +21,7 @@ namespace uri1099
                 int x = int.Parse(vet[0]);
                 int y = int.Parse(vet[1]);
 
-                if ( x > y)
+                if (x > y)
                 {
                     maior = x;
                     menor = y;
@@ -28,25 +32,18 @@ namespace uri1099
                     menor = x;
                 }
 
-                menor = menor + 1;
-
-                for(i = menor; i < maior; menor++)
+                for (j = menor + 1; j < maior; j++)
                 {
-                    if(menor % 2 == 1)
+                    if (j % 2 == 1)
                     {
-                        soma = soma + i;
+                        soma = soma + j;
                     }
-                    else
-                    {
-                        Console.WriteLine("0");
-                    }
+
                 }
-
                 Console.WriteLine(soma);
-
-
+                soma = 0;
             }
-
+            Console.ReadLine();
         }
     }
 }
