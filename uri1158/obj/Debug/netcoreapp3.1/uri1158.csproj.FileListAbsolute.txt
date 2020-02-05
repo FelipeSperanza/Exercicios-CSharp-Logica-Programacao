@@ -9,3 +9,14 @@ C:\Users\Suporte\Desktop\ExerciciosCSharp\uri1158\obj\Debug\netcoreapp3.1\uri115
 C:\Users\Suporte\Desktop\ExerciciosCSharp\uri1158\obj\Debug\netcoreapp3.1\uri1158.AssemblyInfo.cs
 C:\Users\Suporte\Desktop\ExerciciosCSharp\uri1158\obj\Debug\netcoreapp3.1\uri1158.dll
 C:\Users\Suporte\Desktop\ExerciciosCSharp\uri1158\obj\Debug\netcoreapp3.1\uri1158.pdb
+C:\Users\Felipe\source\repos\URI\uri1158\bin\Debug\netcoreapp3.1\uri1158.exe
+C:\Users\Felipe\source\repos\URI\uri1158\bin\Debug\netcoreapp3.1\uri1158.deps.json
+C:\Users\Felipe\source\repos\URI\uri1158\bin\Debug\netcoreapp3.1\uri1158.runtimeconfig.json
+C:\Users\Felipe\source\repos\URI\uri1158\bin\Debug\netcoreapp3.1\uri1158.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\URI\uri1158\bin\Debug\netcoreapp3.1\uri1158.dll
+C:\Users\Felipe\source\repos\URI\uri1158\bin\Debug\netcoreapp3.1\uri1158.pdb
+C:\Users\Felipe\source\repos\URI\uri1158\obj\Debug\netcoreapp3.1\uri1158.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\URI\uri1158\obj\Debug\netcoreapp3.1\uri1158.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\URI\uri1158\obj\Debug\netcoreapp3.1\uri1158.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\URI\uri1158\obj\Debug\netcoreapp3.1\uri1158.dll
+C:\Users\Felipe\source\repos\URI\uri1158\obj\Debug\netcoreapp3.1\uri1158.pdb

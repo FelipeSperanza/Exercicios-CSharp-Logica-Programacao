@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\uri1016\\uri1016.csproj": {}
+    "C:\\Users\\Felipe\\source\\repos\\URI\\uri1016\\uri1016.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\uri1016\\uri1016.csproj": {
+    "C:\\Users\\Felipe\\source\\repos\\URI\\uri1016\\uri1016.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\uri1016\\uri1016.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\source\\repos\\URI\\uri1016\\uri1016.csproj",
         "projectName": "uri1016",
-        "projectPath": "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\uri1016\\uri1016.csproj",
-        "packagesPath": "C:\\Users\\Suporte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\uri1016\\obj\\",
+        "projectPath": "C:\\Users\\Felipe\\source\\repos\\URI\\uri1016\\uri1016.csproj",
+        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Felipe\\source\\repos\\URI\\uri1016\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Suporte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

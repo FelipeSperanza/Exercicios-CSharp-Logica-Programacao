@@ -6,31 +6,28 @@ namespace uri1158
     {
         static void Main(string[] args)
         {
-            int n, i, soma = 0, j;
 
-            n = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine());
 
-            for (i = 0; i < n; i++)
+            for (int i = 0; i < n; i++)
             {
-                string[] vet = Console.ReadLine().Split(' ');
 
-                int x = int.Parse(vet[0]);
-                int y = int.Parse(vet[1]);
+                string[] valores = Console.ReadLine().Split(' ');
+                int x = int.Parse(valores[0]);
+                int y = int.Parse(valores[1]);
 
-                int inicio = x;
-
-                for (j = 0; j < y; j++)
+                int soma = 0;
+                int cont = 0;
+                for (int j = x; cont < y; j++)
                 {
-                    if (inicio % 2 == 1)
+                    if (j % 2 != 0)
                     {
-                        soma = soma + inicio;
-                        inicio = inicio + 1;
+                        soma = soma + j;
+                        cont = cont + 1;
                     }
-                    inicio = inicio + 1;
                 }
 
                 Console.WriteLine(soma);
-
             }
         }
     }

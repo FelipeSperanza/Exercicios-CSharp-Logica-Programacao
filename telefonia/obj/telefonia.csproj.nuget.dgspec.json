@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\telefonia\\telefonia.csproj": {}
+    "C:\\Users\\Felipe\\source\\repos\\URI\\telefonia\\telefonia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\telefonia\\telefonia.csproj": {
+    "C:\\Users\\Felipe\\source\\repos\\URI\\telefonia\\telefonia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\telefonia\\telefonia.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\source\\repos\\URI\\telefonia\\telefonia.csproj",
         "projectName": "telefonia",
-        "projectPath": "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\telefonia\\telefonia.csproj",
-        "packagesPath": "C:\\Users\\Suporte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\telefonia\\obj\\",
+        "projectPath": "C:\\Users\\Felipe\\source\\repos\\URI\\telefonia\\telefonia.csproj",
+        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Felipe\\source\\repos\\URI\\telefonia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Suporte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
