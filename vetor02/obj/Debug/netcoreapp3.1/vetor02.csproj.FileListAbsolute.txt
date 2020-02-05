@@ -8,3 +8,13 @@ C:\Users\Felipe\source\repos\URI\vetor02\obj\Debug\netcoreapp3.1\vetor02.Assembl
 C:\Users\Felipe\source\repos\URI\vetor02\obj\Debug\netcoreapp3.1\vetor02.AssemblyInfo.cs
 C:\Users\Felipe\source\repos\URI\vetor02\obj\Debug\netcoreapp3.1\vetor02.dll
 C:\Users\Felipe\source\repos\URI\vetor02\obj\Debug\netcoreapp3.1\vetor02.pdb
+C:\Users\Suporte\Desktop\ExerciciosCSharp\vetor02\bin\Debug\netcoreapp3.1\vetor02.exe
+C:\Users\Suporte\Desktop\ExerciciosCSharp\vetor02\bin\Debug\netcoreapp3.1\vetor02.deps.json
+C:\Users\Suporte\Desktop\ExerciciosCSharp\vetor02\bin\Debug\netcoreapp3.1\vetor02.runtimeconfig.json
+C:\Users\Suporte\Desktop\ExerciciosCSharp\vetor02\bin\Debug\netcoreapp3.1\vetor02.runtimeconfig.dev.json
+C:\Users\Suporte\Desktop\ExerciciosCSharp\vetor02\bin\Debug\netcoreapp3.1\vetor02.dll
+C:\Users\Suporte\Desktop\ExerciciosCSharp\vetor02\bin\Debug\netcoreapp3.1\vetor02.pdb
+C:\Users\Suporte\Desktop\ExerciciosCSharp\vetor02\obj\Debug\netcoreapp3.1\vetor02.AssemblyInfoInputs.cache
+C:\Users\Suporte\Desktop\ExerciciosCSharp\vetor02\obj\Debug\netcoreapp3.1\vetor02.AssemblyInfo.cs
+C:\Users\Suporte\Desktop\ExerciciosCSharp\vetor02\obj\Debug\netcoreapp3.1\vetor02.dll
+C:\Users\Suporte\Desktop\ExerciciosCSharp\vetor02\obj\Debug\netcoreapp3.1\vetor02.pdb

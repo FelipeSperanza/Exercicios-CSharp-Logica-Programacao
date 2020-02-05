@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe\\source\\repos\\URI\\mediaIdadeWhile\\mediaIdadeWhile.csproj": {}
+    "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\mediaIdadeWhile\\mediaIdadeWhile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe\\source\\repos\\URI\\mediaIdadeWhile\\mediaIdadeWhile.csproj": {
+    "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\mediaIdadeWhile\\mediaIdadeWhile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe\\source\\repos\\URI\\mediaIdadeWhile\\mediaIdadeWhile.csproj",
+        "projectUniqueName": "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\mediaIdadeWhile\\mediaIdadeWhile.csproj",
         "projectName": "mediaIdadeWhile",
-        "projectPath": "C:\\Users\\Felipe\\source\\repos\\URI\\mediaIdadeWhile\\mediaIdadeWhile.csproj",
-        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe\\source\\repos\\URI\\mediaIdadeWhile\\obj\\",
+        "projectPath": "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\mediaIdadeWhile\\mediaIdadeWhile.csproj",
+        "packagesPath": "C:\\Users\\Suporte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\mediaIdadeWhile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Suporte\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
