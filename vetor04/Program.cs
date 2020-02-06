@@ -8,26 +8,25 @@ namespace vetor04
         static void Main(string[] args)
         {
             int n;
-            double[] vet;
 
             n = int.Parse(Console.ReadLine());
-            vet = new double[n];
-
+            double[] vet = new double[n];
             string[] s = Console.ReadLine().Split(' ');
 
             //gravar dados
             for (int i = 0; i < n; i++)
             {
-                vet[i] = double.Parse(s[i]);
+                vet[i] = double.Parse(s[i], CultureInfo.InvariantCulture);
             }
 
-            //media aritmética
-            double media = 0;
+            //media
+            double soma = 0.0;
             for (int i = 0; i < n; i++)
             {
-                media = media + vet[i];
+                soma = soma + vet[i];
             }
-            media = media / n;
+
+            double media = soma / n;
 
             Console.WriteLine(media.ToString("F3", CultureInfo.InvariantCulture));
 
@@ -35,11 +34,9 @@ namespace vetor04
             {
                 if (vet[i] < media)
                 {
-                    Console.WriteLine(vet[i]);
+                    Console.WriteLine(vet[i].ToString("F1", CultureInfo.InvariantCulture));
                 }
             }
-
-
 
         }
     }

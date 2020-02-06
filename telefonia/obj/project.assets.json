@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Suporte\\.nuget\\packages\\": {}
+    "C:\\Users\\Felipe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\telefonia\\telefonia.csproj",
+      "projectUniqueName": "C:\\Users\\Felipe\\source\\repos\\URI\\telefonia\\telefonia.csproj",
       "projectName": "telefonia",
-      "projectPath": "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\telefonia\\telefonia.csproj",
-      "packagesPath": "C:\\Users\\Suporte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suporte\\Desktop\\ExerciciosCSharp\\telefonia\\obj\\",
+      "projectPath": "C:\\Users\\Felipe\\source\\repos\\URI\\telefonia\\telefonia.csproj",
+      "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Felipe\\source\\repos\\URI\\telefonia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Suporte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
