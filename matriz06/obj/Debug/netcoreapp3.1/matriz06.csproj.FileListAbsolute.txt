@@ -8,3 +8,14 @@ C:\Users\Felipe\source\repos\URI\matriz06\obj\Debug\netcoreapp3.1\matriz06.Assem
 C:\Users\Felipe\source\repos\URI\matriz06\obj\Debug\netcoreapp3.1\matriz06.AssemblyInfo.cs
 C:\Users\Felipe\source\repos\URI\matriz06\obj\Debug\netcoreapp3.1\matriz06.dll
 C:\Users\Felipe\source\repos\URI\matriz06\obj\Debug\netcoreapp3.1\matriz06.pdb
+C:\Users\Suporte\Desktop\ExerciciosCSharp\matriz06\bin\Debug\netcoreapp3.1\matriz06.exe
+C:\Users\Suporte\Desktop\ExerciciosCSharp\matriz06\bin\Debug\netcoreapp3.1\matriz06.deps.json
+C:\Users\Suporte\Desktop\ExerciciosCSharp\matriz06\bin\Debug\netcoreapp3.1\matriz06.runtimeconfig.json
+C:\Users\Suporte\Desktop\ExerciciosCSharp\matriz06\bin\Debug\netcoreapp3.1\matriz06.runtimeconfig.dev.json
+C:\Users\Suporte\Desktop\ExerciciosCSharp\matriz06\bin\Debug\netcoreapp3.1\matriz06.dll
+C:\Users\Suporte\Desktop\ExerciciosCSharp\matriz06\bin\Debug\netcoreapp3.1\matriz06.pdb
+C:\Users\Suporte\Desktop\ExerciciosCSharp\matriz06\obj\Debug\netcoreapp3.1\matriz06.csprojAssemblyReference.cache
+C:\Users\Suporte\Desktop\ExerciciosCSharp\matriz06\obj\Debug\netcoreapp3.1\matriz06.AssemblyInfoInputs.cache
+C:\Users\Suporte\Desktop\ExerciciosCSharp\matriz06\obj\Debug\netcoreapp3.1\matriz06.AssemblyInfo.cs
+C:\Users\Suporte\Desktop\ExerciciosCSharp\matriz06\obj\Debug\netcoreapp3.1\matriz06.dll
+C:\Users\Suporte\Desktop\ExerciciosCSharp\matriz06\obj\Debug\netcoreapp3.1\matriz06.pdb
